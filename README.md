@@ -1,6 +1,6 @@
 # Axe-amigo
 
-<img src="https://raw.githubusercontent.com/plusplus7/axe-amigo/master/mexican-hat-and-mustache.png"/>
+<img src="https://raw.githubusercontent.com/plusplus7/Axeamigo/master/mexican-hat-and-mustache.png"/>
 
 ## What?
 
